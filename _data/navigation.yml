@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Bio"
+    url: https://johnwang2461.github.io
+  
   - title: "CV"
     url: https://johnwang2461.github.io/cv_download/John_Wang_Curriculum_Vitae_06_16_2025.pdf
-
-  - title: "Publications"
-    url: https://johnwang2461.github.io/publications/
