@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: https://johnwang2461.github.io/cv/
 
   - title: "Publications"
-    url: /publications/
+    url: https://johnwang2461.github.io/publications/
