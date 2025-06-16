@@ -22,7 +22,7 @@ repository               : "academicpages/Johnwang2461.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://johnwang2461.github.io/headshot/Wang_John_Headshot.jpg"
   name             : "John Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
