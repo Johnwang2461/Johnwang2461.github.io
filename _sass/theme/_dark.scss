@@ -1,6 +1,6 @@
 /* ==========================================================================
-   DARK THEME
-   ========================================================================== */
+   DARK THEME - Comment Out
+   ==========================================================================
 
 /* Color codes used for the theme */
 $gray                       : #7a8288;
@@ -52,3 +52,5 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
 }
+
+*/
